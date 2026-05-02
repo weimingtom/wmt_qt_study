@@ -4,6 +4,7 @@
 ## Windows sources
 * qt-opensource-windows-x86-mingw492-5.6.1-1.exe
 * qt-creator-opensource-windows-x86-4.0.0.exe
+* (TODO) my qt company project code  
 
 ## Embedded Linux sources
 * qt-everywhere-opensource-src-4.8.6.tar.gz
