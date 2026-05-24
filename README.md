@@ -38,3 +38,9 @@
 重新点Re-detect按钮（不过有可能重启qtcreator也会自动检测）
 qt5-doc不知道为什么装不上
 ```
+```
+我测试过，如果是Xubuntu 25.04的话，如果要用qt5写代码，除了装gcc g++ cmake make以外，
+只要再装qtcreator和qtbase5-dev就可以了，qtbase5-dev就相当于以前的qt5-default，
+或者可能以前的qt5-default就包含了qtbase5-dev，只是后来这个包消失了（可能在ubuntu 20之后），
+所以只能用qtbase5-dev这个apt包安装qt5
+```
