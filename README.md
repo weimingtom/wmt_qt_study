@@ -25,3 +25,14 @@
 其他诸如ubuntu 25.04则无法轻松安装qt5，所以我优先用xubuntu 20.04，
 或者等以后有时间研究怎么从源码编译安装qt5 ​​​
 ```
+* Xubuntu 25.04: sudo apt install qtbase5-dev
+https://www.thundercomm.com/rubik-pi-3/cn/docs/rubik-pi-3-user-manual/1.1.2/qt5-user-guide  
+sudo apt install build-essential     
+sudo apt install qtcreator  
+sudo apt install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools qtbase5-examples qtbase5-doc-html
+??? not need qt5-doc ????   
+```
+一定要确保make和gcc/g++已经安装，否则需要在qtcreator的Preferences-compilers
+里面重新点Re-detect按钮（不过有可能重启qtcreator也会自动检测）
+qt5-doc不知道为什么装不上
+```
