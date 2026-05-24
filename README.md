@@ -44,3 +44,7 @@ qt5-doc不知道为什么装不上
 或者可能以前的qt5-default就包含了qtbase5-dev，只是后来这个包消失了（可能在ubuntu 20之后），
 所以只能用qtbase5-dev这个apt包安装qt5
 ```
+
+## 昉·惊鸿-7110 Linux Qt开发指南
+* https://www.bilibili.com/video/BV1tFMczDEes/
+* https://doc.rvspace.org/JH7110/DevKit/QT/JH7110_DevKit_QSG/QT/introduction.html
