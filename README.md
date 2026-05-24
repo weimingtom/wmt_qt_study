@@ -17,3 +17,11 @@
 * qt-everywhere-opensource-src-5.15.8.tar.xz
 * qt-everywhere-src-6.2.4.tar.xz
 * qt-embedded-linux-opensource-src-4.5.3.tar.gz
+
+## Install Qt5 with apt install
+* Xubuntu 20.04: sudo apt install qt5-default
+```
+但目前我只知道xubuntu 20.04可以很容易apt install qt5-default，
+其他诸如ubuntu 25.04则无法轻松安装qt5，所以我优先用xubuntu 20.04，
+或者等以后有时间研究怎么从源码编译安装qt5 ​​​
+```
