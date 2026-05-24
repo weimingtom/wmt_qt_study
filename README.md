@@ -34,7 +34,7 @@
 * sudo apt install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools qtbase5-examples qtbase5-doc-html
 * ??? not need qt5-doc ????   
 ```
-一定要确保make和gcc/g++已经安装，否则需要在qtcreator的Preferences-compilers
-里面重新点Re-detect按钮（不过有可能重启qtcreator也会自动检测）
+一定要确保make和gcc/g++已经安装，否则需要在qtcreator的Preferences -> Compilers里面
+重新点Re-detect按钮（不过有可能重启qtcreator也会自动检测）
 qt5-doc不知道为什么装不上
 ```
